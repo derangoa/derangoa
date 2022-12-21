@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derangoa
 - 👀 I’m interested in web development and website design. 
-- 🌱 I’m recently graduated in Computer Science from Albion College in May 2021. 
+- 🌱 I’m a graduate in Computer Science from Albion College. 
 - 💞️ I’m looking to collaborate on website design projects and web applications. 
 - 📫 How to reach me: Email me at afd11@albion.edu
 
